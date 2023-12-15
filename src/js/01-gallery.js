@@ -88,3 +88,7 @@ const lightbox = new SimpleLightbox('.gallery__item a', {
   captionsData: 'alt',
   captionsDelay: 250,
 });
+
+const doSome = value => {
+  return value * value;
+};
