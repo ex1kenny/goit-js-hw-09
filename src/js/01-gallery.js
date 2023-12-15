@@ -92,3 +92,5 @@ const lightbox = new SimpleLightbox('.gallery__item a', {
 const doSome = value => {
   return value * value;
 };
+
+console.log('hello');
